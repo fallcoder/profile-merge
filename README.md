@@ -2,9 +2,9 @@
 This project is a JavaScript script demonstrating how to merge candidate profiles using JavaScript objects. The script takes two objects, candidate and info, merges their properties, and displays the result.
 
 # Objective
-The main objective of this script is to combine the information contained in two separate objects, ``candidate` and `info`, into a single comprehensive object called `amina`. The script also illustrates how to validate candidate data, handle property conflicts when merging objects, and add additional properties based on existing data.
+The main objective of this script is to combine the information contained in two separate objects, `candidate` and `info`, into a single comprehensive object called `amina`. The script also illustrates how to validate candidate data, handle property conflicts when merging objects, and add additional properties based on existing data.
 
-#Features
+# Features
 * **Data Validation:** The isValidCandidate function validates if the candidate's properties are valid, including the name as a string, age as a number, and sex as either 'male' or 'female'.
 * **Object Merging:** The mergeObjects function merges two objects while handling property conflicts. If a property exists in both objects, it is renamed with the '_info' suffix in the merged object.
 * **Adding Additional Information:** The script adds a status property to the merged object based on the candidate's age, indicating whether they are considered a young adult or an adult.
