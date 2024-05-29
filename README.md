@@ -23,6 +23,9 @@ cd profile-merge
 
 4. **Customization:** You can modify the candidate information and additional information in the `candidate` and `info` objects to tailor the script to your specific needs
 
+# Contributions
+Contributions in the form of suggestions, bug reports, and feature requests are welcome! Feel free to open an issue or submit a pull request to improve this project
+
 # Author
 * Developed by Mouhamed Fall
 * Email : mouhamedfall056@gmail.com
